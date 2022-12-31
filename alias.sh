@@ -15,6 +15,7 @@ alias lp='echo;ls -a1FguvX;echo;pwd;echo;'
 alias srv='service --status-all'
 alias srx='service --status-all | grep "+"'
 " >> /root/.bashrc
+# >> /home/$USER/.bashrc
 
 # Basic apt packages to install
 #
@@ -42,6 +43,7 @@ apt -y install php libapache2-mod-php php-cli php-cgi php-mysql php-pgsql
 # all-in-one
 # apt -y install tree nmap net-tools mlocate macchanger htop python3 vim git vsftpd pptpd apache2 php libapache2-mod-php php-cli php-cgi php-mysql php-pgsql
 
-# end of process
-# init 6
+# End of process.
+# init 6 - Reboot the machine
+# init 0 - Power-off the machine
 reboot
