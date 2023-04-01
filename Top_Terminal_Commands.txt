@@ -1,0 +1,221 @@
+# File & Folders
+ cat
+ cd
+ cp
+ echo
+ fild
+ file
+ grep
+ head
+ history | grep 'ip'
+ less
+ ln -s
+ locate
+ ls
+ mkdir
+ more
+ mv
+ ngrep
+ pwd
+ rm
+ rmdir
+ shred
+ tac
+ tail
+ touch
+ tree
+ wc
+
+# User
+ $USER
+ chattr
+ chgrp
+ chmod
+ chown
+ chroot
+ groups
+ hostname
+ last | w
+ login / logout
+ logname
+ neofetch
+ passwd
+ uname
+ uptime
+ useradd
+ userdel
+ usermod
+ who
+ whoami
+ whois
+
+# Editor
+ jed
+ nano
+ vi | vim
+
+# Ls
+ ls
+ lsattr
+ lscpu
+ lshw
+ lsof
+ lspci
+ lspower
+ lsusb
+
+# Time
+ cal / ncal
+ data
+ hwclock
+ oclock
+ time
+ uptime
+
+# Compair/Diffirence
+ cmp
+ comm
+ diff
+ sdiff
+
+# Compress
+ bzip
+ bzip2
+ gzip
+ tar
+ zcat
+ zip | unzip
+
+# Halt
+ -h | --help
+ clear
+ exit
+ halt
+ iconv
+ info
+ init 0
+ init 6
+ man
+ reboot
+ screen
+ shutdown
+ sleep
+ telinit 0
+ wait
+ whatis
+ whereis
+ which
+
+# Network
+ arp
+ dhclient
+ dig
+ ethtool
+ firewalld
+ fping
+ get-netipaddres
+ getmac
+ host
+ ifconfig
+ ifdown
+ ifplugstatus
+ iftop
+ iftop
+ ifup
+ ip a
+ ipconfig
+ iptables
+ iptraf
+ iwconfig
+ macchanger
+ mtr
+ nbtstat
+ net
+ netcat | nc
+ nethogs
+ netsh
+ netstat
+ nmap
+ nmcli
+ nmtui
+ nslookup
+ pathping
+ ping
+ proxychains
+ route
+ scp
+ ss
+ ssh
+ systeminfo
+ taskkill
+ tcpdump
+ telnet
+ tracepath
+ traceroute
+ tracert
+ ufw (firewall)
+ vmask
+ vnstat
+ wget
+ wifite
+
+# Process
+ ./script.sh
+ apropose
+ apt | apt-get
+ aspell
+ atop
+ bash
+ blkid
+ bs
+ btop
+ chage
+ cheat
+ chpassword
+ cron
+ dd
+ df
+ dmesg
+ dnf
+ dpkg
+ du
+ dump
+ echo 'hello' > file.txt
+ echo > file.txt
+ echo >> file.txt
+ env
+ factor
+ fg
+ finger
+ free
+ history > file.txt
+ htop
+ iostat
+ iotop
+ jornalctl
+ kill
+ killall
+ kmod
+ ncdn
+ nload
+ nohub
+ ojbs
+ pacman
+ ps
+ rsync
+ sar
+ scp
+ service
+ sh
+ stat
+ su
+ sudo
+ systemctl
+ tldr
+ tmux
+ top
+ vmstat
+ xmodmap
+ xrandr
+ yes
+ yum
