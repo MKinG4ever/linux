@@ -3,7 +3,8 @@
 # author: NightFox
 
 # Update
-sudo apt update && apt -y upgrade
+sudo apt update
+#apt -y upgrade
 
 # NightFox alias (Global)
 #
@@ -50,4 +51,4 @@ apt -y install php libapache2-mod-php php-cli php-cgi php-mysql php-pgsql
 echo "$USER:Done!"
 # init 6 - Reboot the machine
 # init 0 - Power-off the machine
-reboot
+# reboot
