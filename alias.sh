@@ -12,10 +12,19 @@ echo "
 # NightFox alias
 alias q='exit'
 alias ..='clear'
-alias py='python3'
 alias lp='echo;ls -a1FguvX;echo;pwd;echo;'
+alias py='python3'
+# services alias
 alias srv='service --status-all'
 alias srx='service --status-all | grep "+"'
+# git-hub alias
+alias g='git'
+alias gs='git status'
+alias gl='git log'
+alias gb='git branch'
+alias gc='git checkout'
+alias gm='git checkout master'
+
 " >> /root/.bashrc
 # >> /home/$USER/.bashrc
 
