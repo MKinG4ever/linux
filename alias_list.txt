@@ -1,0 +1,20 @@
+# NightFox alias
+
+alias q='exit'
+alias ..='clear'
+alias lp='echo;ls -a1FguvX;echo;pwd;echo;'
+
+# python 3 alias
+alias py='python3'
+
+# services alias
+alias srv='service --status-all'
+alias srx='service --status-all | grep "+"'
+
+# git-hub alias
+alias g='git'
+alias gs='git status'
+alias gl='git log'
+alias gb='git branch'
+alias gc='git checkout'
+alias gm='git checkout master'
